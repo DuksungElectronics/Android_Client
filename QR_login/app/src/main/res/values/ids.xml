@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="phone_editText" type="id" />
+    <item name="phone_btn" type="id" />
+    <item name="qrcode_editText" type="id" />
+    <item name="qrcode_btn" type="id" />
+</resources>
